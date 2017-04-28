@@ -1,0 +1,4 @@
+# Development files
+*.o
+junit.xml
+superiotool
